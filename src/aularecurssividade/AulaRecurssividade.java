@@ -5,6 +5,8 @@
  */
 package aularecurssividade;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Evangelino
@@ -16,6 +18,9 @@ public class AulaRecurssividade {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        JOptionPane.showMessageDialog(null, "Ola Mundo!!!");
+        JOptionPane.showMessageDialog(null, "Ola Tudo bem!!!");
+        
     }
     
 }
